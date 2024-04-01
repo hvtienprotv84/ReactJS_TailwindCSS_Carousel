@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactJS_TailwindCSS_Carousel/static/css/main.de2b2760.css",
+    "main.js": "/ReactJS_TailwindCSS_Carousel/static/js/main.01d85f64.js",
+    "static/media/anh6.gif": "/ReactJS_TailwindCSS_Carousel/static/media/anh6.bffe87b1b382112b930e.gif",
+    "static/media/anh7.gif": "/ReactJS_TailwindCSS_Carousel/static/media/anh7.51d546ae254659680e11.gif",
+    "static/media/anh10.gif": "/ReactJS_TailwindCSS_Carousel/static/media/anh10.2a453cb4a5f68f041d8d.gif",
+    "static/media/anh11.webp": "/ReactJS_TailwindCSS_Carousel/static/media/anh11.1ef942fa3640ff49de94.webp",
+    "static/media/anh5.gif": "/ReactJS_TailwindCSS_Carousel/static/media/anh5.15a8a48bf35f99a47ed2.gif",
+    "static/media/anh8.gif": "/ReactJS_TailwindCSS_Carousel/static/media/anh8.7f03a7423f342b9de1df.gif",
+    "static/media/anh4.gif": "/ReactJS_TailwindCSS_Carousel/static/media/anh4.8a669cb0cff3a65ee0da.gif",
+    "static/media/anh3.gif": "/ReactJS_TailwindCSS_Carousel/static/media/anh3.201c88f97b1f62f9fc95.gif",
+    "static/media/anh2.gif": "/ReactJS_TailwindCSS_Carousel/static/media/anh2.c4f737bf18bb36fa8ed4.gif",
+    "static/media/anh9.gif": "/ReactJS_TailwindCSS_Carousel/static/media/anh9.18f0fc82d634e1e3e35c.gif",
+    "index.html": "/ReactJS_TailwindCSS_Carousel/index.html",
+    "static/media/chevron-left.svg": "/ReactJS_TailwindCSS_Carousel/static/media/chevron-left.982a40d4f9e3cf9fdaeaf4af9da46c14.svg",
+    "static/media/chevron-right.svg": "/ReactJS_TailwindCSS_Carousel/static/media/chevron-right.d45fd2f46e93f5c3aa0a7d0617d9fecf.svg",
+    "main.de2b2760.css.map": "/ReactJS_TailwindCSS_Carousel/static/css/main.de2b2760.css.map",
+    "main.01d85f64.js.map": "/ReactJS_TailwindCSS_Carousel/static/js/main.01d85f64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de2b2760.css",
+    "static/js/main.01d85f64.js"
+  ]
+}
